@@ -1,2 +1,2 @@
-# Singleton
-유니티로 구현한 싱글톤 패턴
+# UnitySingleton
+Singleton Pattern Learned in Unity
